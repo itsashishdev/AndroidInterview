@@ -12,6 +12,5 @@ open class GitTutorial {
             println("Program arguments:$rebase")
         }
     }
-
 }
 
